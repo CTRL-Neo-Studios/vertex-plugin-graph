@@ -1,7 +1,7 @@
 {
   "id": "graph",
   "name": "Graph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Notes and the links between them as a graph: the whole workspace, or around the open note.",
   "icon": "i-lucide-waypoints",
   "author": "CTRL Neo Studios",
