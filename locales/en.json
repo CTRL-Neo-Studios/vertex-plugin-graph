@@ -1,0 +1,29 @@
+{
+  "plugins": {
+    "graph": {
+      "view": "Graph",
+      "localView": "Local graph",
+      "open": "Open graph view",
+      "openLocal": "Open local graph",
+      "fit": "Fit to view",
+      "empty": "No notes to show.",
+      "noNote": "Open a note to see what it links to.",
+      "config": {
+        "showTags": "Show tags",
+        "showAttachments": "Show attachments",
+        "showUnresolved": "Show unresolved links",
+        "showUnresolvedHelp": "Links to notes that don't exist yet, as nodes of their own.",
+        "showOrphans": "Show orphans",
+        "showOrphansHelp": "Notes with no links in or out.",
+        "localDepth": "Local graph depth",
+        "localDepthHelp": "How many links away from the open note the local graph reaches.",
+        "groups": "Colour groups",
+        "groupsHelp": "One per line: a query, then a colour. path:Projects/ #f59e0b, tag:idea green, or text in a note's name.",
+        "centerForce": "Centre force",
+        "repelForce": "Repel force",
+        "linkForce": "Link force",
+        "linkDistance": "Link distance"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "plugins": {
+    "graph": {
+      "view": "关系图",
+      "localView": "局部关系图",
+      "open": "打开关系图",
+      "openLocal": "打开局部关系图",
+      "fit": "适应视图",
+      "empty": "没有可显示的笔记。",
+      "noNote": "打开一篇笔记以查看它的链接。",
+      "config": {
+        "showTags": "显示标签",
+        "showAttachments": "显示附件",
+        "showUnresolved": "显示未解析的链接",
+        "showUnresolvedHelp": "指向尚不存在的笔记的链接，作为单独的节点显示。",
+        "showOrphans": "显示孤立笔记",
+        "showOrphansHelp": "没有任何链入或链出的笔记。",
+        "localDepth": "局部关系图深度",
+        "localDepthHelp": "局部关系图从当前笔记出发所跨越的链接数。",
+        "groups": "颜色分组",
+        "groupsHelp": "每行一个：查询条件，然后是颜色。path:Projects/ #f59e0b、tag:idea green，或笔记名称中的文字。",
+        "centerForce": "向心力",
+        "repelForce": "排斥力",
+        "linkForce": "链接力",
+        "linkDistance": "链接距离"
+      }
+    }
+  }
+}
