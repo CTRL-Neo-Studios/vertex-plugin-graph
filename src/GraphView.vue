@@ -333,8 +333,7 @@ function click(event: MouseEvent) {
     </div>
 </template>
 
-<!-- Plain CSS rather than Tailwind: Tailwind writes a rule for any word of the sources that names a class (`resize`,
-     `hidden`, `container` in this file's script), and a plugin's rules reach all of Vertex's elements. -->
+<!-- Plain CSS: a canvas and one line of text need no utilities. -->
 <style scoped>
 .graph {
     position: relative;
